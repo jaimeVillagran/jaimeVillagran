@@ -4,15 +4,15 @@
 ## Habilidades Técnicas
 
 <p>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f3087369-4eef-4c42-89c0-99b84ebea24a" alt="CSS" with="50" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/d8f2da58-6a35-450c-894c-cbc3411fe5e1" alt="JS" width="50" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f260a043-fe96-4a5f-b6e1-6a6c304a9b43" alt="VUE" with="50" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0ba29f11-82b8-44fb-a601-5feec8b4a7ad" alt="React" width="50" style="margin-right: 30px;"/>
-    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="MongoDB" width="75" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/7f24a656-0e0c-471a-9eb8-c191ba313af5" alt="NodeJS" width="75" style="margin-right: 30px;"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50" style="margin-right: 20px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f3087369-4eef-4c42-89c0-99b84ebea24a" alt="CSS" with="50" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/d8f2da58-6a35-450c-894c-cbc3411fe5e1" alt="JS" width="50" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f260a043-fe96-4a5f-b6e1-6a6c304a9b43" alt="VUE" with="50" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0ba29f11-82b8-44fb-a601-5feec8b4a7ad" alt="React" width="50" style="margin-right: 40px;"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="MongoDB" width="85" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/7f24a656-0e0c-471a-9eb8-c191ba313af5" alt="NodeJS" width="75" style="margin-right: 40px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50" style="margin-right: 40px;"/>
 </p>
 
 ![image size]()
