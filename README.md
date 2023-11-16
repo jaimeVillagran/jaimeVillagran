@@ -5,8 +5,8 @@
 
 <p>
    
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/7c61b298-40cd-44d2-9289-29e75bb4b12c" alt="CSS" with="50"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f260a043-fe96-4a5f-b6e1-6a6c304a9b43" alt="VUE" with="50"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/7c61b298-40cd-44d2-9289-29e75bb4b12c" alt="CSS" with="50" style="margin-right: 10px;"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f260a043-fe96-4a5f-b6e1-6a6c304a9b43" alt="VUE" with="50" style="margin-right: 10px;"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0ba29f11-82b8-44fb-a601-5feec8b4a7ad" alt="React" width="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="JS" width="50"/>
