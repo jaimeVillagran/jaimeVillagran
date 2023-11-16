@@ -7,8 +7,8 @@
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/281dca27-4c41-447a-976d-0658067a8870" alt="HTML5" width="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/fe01606c-6b16-4763-b102-23c804d7a0a0" alt="CSS" with="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3449045a-99b9-4d6d-b547-bffad288996b" alt="VUE" with="50"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/6197f6fa-10f7-4e9c-aba4-cf34230a5915" alt="React" width="50"/>
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/ede8e195-01d8-4fb3-ade6-833f33a9692b" alt="Docker" with="50"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/6197f6fa-10f7-4e9c-aba4-cf34230a5915" alt="React" width="25"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/ede8e195-01d8-4fb3-ade6-833f33a9692b" alt="Docker" with="25"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="JS" width="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50"/>
 </p>
