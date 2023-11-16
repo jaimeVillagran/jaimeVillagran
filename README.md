@@ -12,7 +12,7 @@
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="JS" width="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/281dca27-4c41-447a-976d-0658067a8870" alt="HTML5" width="50"/>
-   ![image](https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f11ef07e-186d-419d-82c7-311f839c3eaa)
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f11ef07e-186d-419d-82c7-311f839c3eaa" alt="NodeJS" width="50"/>)
 
 </p>
 
