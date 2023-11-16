@@ -1,6 +1,8 @@
 ### Hi there 👋
 # Jaime Villagrán Arellano - Desarrollador Full Stack Web
 
+![image](https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/281dca27-4c41-447a-976d-0658067a8870)
+
 ## Sobre Mí
 ¡Hola! Soy Jaime, un técnico profesional con experiencia en gestión tecnológica y creación de soluciones digitales, especializado en desarrollo Full Stack. Mi enfoque se centra en combinar habilidades de Frontend y Backend para desarrollar productos digitales eficientes y eficaces. Soy un líder natural, con experiencia en guiar equipos multidisciplinares y trabajar bajo plazos ajustados. Estoy constantemente buscando nuevos desafíos y oportunidades para crecer profesionalmente.
 
