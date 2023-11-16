@@ -9,7 +9,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpLjVMapCCILIOFKDqRNS3meMhiuMYyQ_6BBvTcK7uLW6gjpBXl4r6gGYc0aTg3t1NrzQ&usqp=CAU" alt="CSS" with="50"/>
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-hgorm&psig=AOvVaw1jGxleGg5VbOHnHDS8Etd8&ust=1700262756544000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM0sTSyYIDFQAAAAAdAAAAABAa" alt="VUE" with="50"/>
-  <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="React" width"50"/>
+<img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="VUE" with="50"/>
+<img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="React" width"50"/>
 
   <img src="URL_del_logo_JavaScript" alt="JavaScript" width="50"/>
 </p>
