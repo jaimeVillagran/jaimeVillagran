@@ -12,8 +12,7 @@
 <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="VUE" with="50"/>
 <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="React" width"50"/>
 
-  <img src="![image](https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3e05ac0b-8144-4f75-889f-4be4e6a87d2c)
-" width="50"/>
+  <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3e05ac0b-8144-4f75-889f-4be4e6a87d2c" alt="JS" width="50"/>
 </p>
 
 ![image size]()
