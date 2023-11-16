@@ -5,7 +5,7 @@
 
 <p>
    
-   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/fe01606c-6b16-4763-b102-23c804d7a0a0" alt="CSS" with="20%"/>
+   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/7c61b298-40cd-44d2-9289-29e75bb4b12c" alt="CSS" with="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3449045a-99b9-4d6d-b547-bffad288996b" alt="VUE" with="50"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/6197f6fa-10f7-4e9c-aba4-cf34230a5915" alt="React" width="25"/>
    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/ede8e195-01d8-4fb3-ade6-833f33a9692b" alt="Docker" with="25"/>
