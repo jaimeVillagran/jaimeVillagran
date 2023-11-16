@@ -4,8 +4,12 @@
 ## Habilidades Técnicas
 
 <p>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freeiconspng.com%2Fthumbs%2Fhtml5-icon%2Fw3c-html5-logo-0.png&tbnid=BYgupmHKOf5yGM&vet=12ahUKEwjG8Na90cmCAxUusJUCHfykBwUQMygBegQIARBH..i&imgrefurl=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F12123&docid=waZ6Wwu-t4UGxM&w=320&h=320&q=HTML%20png%20transparent%20size&ved=2ahUKEwjG8Na90cmCAxUusJUCHfykBwUQMygBegQIARBH" alt="HTML" width="50"/>
   <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/281dca27-4c41-447a-976d-0658067a8870" alt="HTML5" width="50"/>
-  <img src="URL_del_logo_CSS3" alt="CSS3" width="50"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpLjVMapCCILIOFKDqRNS3meMhiuMYyQ_6BBvTcK7uLW6gjpBXl4r6gGYc0aTg3t1NrzQ&usqp=CAU" alt="CSS" with="50"/>
+
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-hgorm&psig=AOvVaw1jGxleGg5VbOHnHDS8Etd8&ust=1700262756544000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM0sTSyYIDFQAAAAAdAAAAABAa" alt="VUE" with="50"/>
+  
   <img src="URL_del_logo_JavaScript" alt="JavaScript" width="50"/>
 </p>
 
