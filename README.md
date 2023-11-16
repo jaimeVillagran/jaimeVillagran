@@ -30,8 +30,8 @@
 
 ## Contacto
 Si deseas saber más sobre mi trabajo o colaborar en algún proyecto, no dudes en contactarme:
-- **Correo:** [jaime.villagran@gmail.com](mailto:jaime.villagran@gmail.com)
-- **Celular:** +56 9 6568 3567
+- 📧**Correo:** [jaime.villagran@gmail.com](mailto:jaime.villagran@gmail.com)
+- 📳**Celular:** +56 9 6568 3567
 
 ## Intereses Personales
 Me apasiona mantenerme activo y disfruto de la ciencia ficción. Estos intereses me inspiran a mantener un equilibrio entre la vida profesional y personal, fomentando la creatividad y la innovación en mi trabajo.
