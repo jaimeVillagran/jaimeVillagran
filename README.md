@@ -4,15 +4,13 @@
 ## Habilidades Técnicas
 
 <p>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freeiconspng.com%2Fthumbs%2Fhtml5-icon%2Fw3c-html5-logo-0.png&tbnid=BYgupmHKOf5yGM&vet=12ahUKEwjG8Na90cmCAxUusJUCHfykBwUQMygBegQIARBH..i&imgrefurl=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F12123&docid=waZ6Wwu-t4UGxM&w=320&h=320&q=HTML%20png%20transparent%20size&ved=2ahUKEwjG8Na90cmCAxUusJUCHfykBwUQMygBegQIARBH" alt="HTML" width="50"/>
-  <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/281dca27-4c41-447a-976d-0658067a8870" alt="HTML5" width="50"/>
-  <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/fe01606c-6b16-4763-b102-23c804d7a0a0" alt="CSS" with="50"/>
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-hgorm&psig=AOvVaw1jGxleGg5VbOHnHDS8Etd8&ust=1700262756544000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDM0sTSyYIDFQAAAAAdAAAAABAa" alt="VUE" with="50"/>
-<img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="VUE" with="50"/>
-<img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/275ea668-9272-4446-ab78-8a671cc297e8" alt="React" width"50"/>
-
-  <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3e05ac0b-8144-4f75-889f-4be4e6a87d2c" alt="JS" width="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/281dca27-4c41-447a-976d-0658067a8870" alt="HTML5" width="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/fe01606c-6b16-4763-b102-23c804d7a0a0" alt="CSS" with="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3449045a-99b9-4d6d-b547-bffad288996b" alt="VUE" with="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/6197f6fa-10f7-4e9c-aba4-cf34230a5915" alt="React" width="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/ede8e195-01d8-4fb3-ade6-833f33a9692b" alt="Docker" with="50"/>
+    <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="JS" width="50"/>
 </p>
 
 ![image size]()
