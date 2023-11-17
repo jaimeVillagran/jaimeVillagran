@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Jaime Villagrán Arellano - Desarrollador Full Stack Web
+# ✨ Jaime Villagrán Arellano - Desarrollador Full Stack Web ✨ 
 
 ## Habilidades Técnicas
 
@@ -24,11 +24,11 @@
 ## Sobre Mí
 ¡Hola! Soy Jaime, un técnico profesional con experiencia en gestión tecnológica y creación de soluciones digitales, especializado en desarrollo Full Stack. Mi enfoque se centra en combinar habilidades de Frontend y Backend para desarrollar productos digitales eficientes y eficaces. Soy un líder natural, con experiencia en guiar equipos multidisciplinares y trabajar bajo plazos ajustados. Estoy constantemente buscando nuevos desafíos y oportunidades para crecer profesionalmente.
 
-## Experiencia Laboral
+##  Experiencia Laboral
 - **Agosto 2016 – Presente:** Profesional Desarrollador en ACTON BARROW SPA – BARROW MINING SPA, Santiago Chile.
 - **Julio 2014 – Julio 2016:** Asesoría tecnológica y digital en SOCIEDAD EDUCACIONAL EDUTEC, Santiago Chile.
 - **Febrero 2008 – Junio 2014:** Jefe de operaciones en ASESORÍAS E INVERSIONES GLOBAL WORLD LTDA, Santiago Chile.
-## Educación
+## 📚 Educación
 - **Escalab:** Fullstack MERN Developer (Dic. 2022 - Jun. 2023)
 - **Escalab:** React JS Developer (Dic. 2022 - Mar. 2023)
 - **Edutecno - E.Camp (Talento Digital para Chile):** Desarrollo de aplicaciones Front End (Jun. 2020 - Nov. 2021)
