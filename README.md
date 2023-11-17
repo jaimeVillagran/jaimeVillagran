@@ -4,34 +4,17 @@
 ## Habilidades Técnicas
 
 <p>
-   <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-   <a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-   <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
-<a src="https://www.typescriptlang.org/"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-<a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
-<a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
-<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
-<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-
-
-
-
-   
-   <div style="display: flex; justify-content: space-around; align-items: center; background-color: #f2f2f2; padding: 10px;">
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f3087369-4eef-4c42-89c0-99b84ebea24a" alt="CSS" with="50"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/d8f2da58-6a35-450c-894c-cbc3411fe5e1" alt="JS" width="50"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f260a043-fe96-4a5f-b6e1-6a6c304a9b43" alt="VUE" with="45"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0ba29f11-82b8-44fb-a601-5feec8b4a7ad" alt="React" width="50"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/7f24a656-0e0c-471a-9eb8-c191ba313af5" alt="NodeJS" width="75"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/0cd6d5c0-147e-40dd-8979-1308556acec2" alt="MongoDB" width="95"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/ebc0ea18-0539-46c4-87ca-843a1f375dc2" alt="MySQL" with="50"/>
-      <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50"/>
-   </div>
+   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+   <img src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </p>
    
 
