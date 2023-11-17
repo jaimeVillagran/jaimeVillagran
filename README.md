@@ -4,7 +4,7 @@
 ## Habilidades Técnicas
 
 
-   <div style="background-color: #f2f2f2; padding: 10px;">
+   <div style="background-color: #65FFA2; padding: 10px;">
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50" style="margin-right: 65px;"/>
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f3087369-4eef-4c42-89c0-99b84ebea24a" alt="CSS" with="50" style="margin-right: 65px;"/>
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/d8f2da58-6a35-450c-894c-cbc3411fe5e1" alt="JS" width="50" style="margin-right: 65px;"/>
