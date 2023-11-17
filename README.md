@@ -3,7 +3,7 @@
 
 ## Habilidades Técnicas
 
-<p>
+
    <div style="background-color: #f2f2f2; padding: 10px;">
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/411bb714-796f-41be-8370-4211491d148a" alt="HTML" width="50" style="margin-right: 65px;"/>
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/f3087369-4eef-4c42-89c0-99b84ebea24a" alt="CSS" with="50" style="margin-right: 65px;"/>
@@ -16,9 +16,9 @@
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/3785126b-cf37-48b3-8066-383b7484d0b6" alt="PostgreSQL" with="50" style="margin-right: 65px;"/>
       <img src="https://github.com/jaimeVillagran/jaimeVillagran/assets/87080231/256bb014-563b-4f98-8b5c-0600278ec950" alt="Docker" with="50" style="margin-right: 65px;"/>
    </div>
-</p>
 
-![image size]()
+
+
 
 ## Sobre Mí
 ¡Hola! Soy Jaime, un técnico profesional con experiencia en gestión tecnológica y creación de soluciones digitales, especializado en desarrollo Full Stack. Mi enfoque se centra en combinar habilidades de Frontend y Backend para desarrollar productos digitales eficientes y eficaces. Soy un líder natural, con experiencia en guiar equipos multidisciplinares y trabajar bajo plazos ajustados. Estoy constantemente buscando nuevos desafíos y oportunidades para crecer profesionalmente.
