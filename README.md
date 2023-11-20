@@ -22,7 +22,7 @@
 
 
 ## Sobre Mí
-¡Hola! Soy Jaime, un técnico profesional con experiencia en gestión tecnológica y creación de soluciones digitales, especializado en desarrollo Full Stack. Mi enfoque se centra en combinar habilidades de Frontend y Backend para desarrollar productos digitales eficientes y eficaces. Soy un líder natural, con experiencia en guiar equipos multidisciplinares y trabajar bajo plazos ajustados. Estoy constantemente buscando nuevos desafíos y oportunidades para crecer profesionalmente.
+¡Hola! Soy Jaime, un técnico profesional con experiencia en gestión tecnológica y creación de soluciones digitales, especializado en desarrollo Full Stack. Mi enfoque se centra en combinar habilidades de Frontend y Backend para desarrollar productos digitales eficientes y eficaces. Soy un líder natural, con experiencia en guiar equipos multidisciplinarios y trabajar bajo plazos ajustados. Estoy constantemente buscando nuevos desafíos y oportunidades para crecer profesionalmente.
 
 ##  Experiencia Laboral
 - **Agosto 2016 – Presente:** Profesional Desarrollador en ACTON BARROW SPA – BARROW MINING SPA, Santiago Chile.
